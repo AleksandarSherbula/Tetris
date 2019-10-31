@@ -1,2 +1,2 @@
 # Tetris
-A Tetris game made in C++ and SFML
+A Tetris game made in C++ with SFML library
